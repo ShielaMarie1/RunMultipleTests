@@ -6,7 +6,7 @@ public class Test1 {
 	
 	@Test
 		public void m1Test() {
-			System.out.println("Package1 Sanity test 1");
+			System.out.println("Package11 Sanity test 1");
 		}
 		
 	@Test
